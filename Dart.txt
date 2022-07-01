@@ -1,0 +1,8 @@
+Dart:
+- run main() method
+- primitive data types: string, int , bool,..
+- list, arrays, arrays.map(func).toList()
+- object
+- String: concat + ${}
+- library(math,..): import
+- Function: return, params
